@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/fullstack-front/node_modules
+/fullstack-front/.pnp
+/fullstack-front/.pnp.js
+
+# testing
+/fullstack-front/coverage
+
+# production
+/fullstack-front/build
+
+# misc
+/fullstack-front/.DS_Store
+/fullstack-front/.env.local
+/fullstack-front/.env.development.local
+/fullstack-front/.env.test.local
+/fullstack-front/.env.production.local
+
+/fullstack-front/npm-debug.log*
+/fullstack-front/yarn-debug.log*
+/fullstack-front/yarn-error.log*
